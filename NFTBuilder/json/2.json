@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #2",
+  "description": "Your Collection",
+  "image": "2.png",
+  "dna": "e19eb84f298039aa1d1799240b7d1b136b29f073",
+  "edition": 2,
+  "date": 1646126717047,
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "bg2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eyes1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mouth5"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "nose3"
+    }
+  ],
+  "compiler": "https://the-nft-generator.com"
+}
